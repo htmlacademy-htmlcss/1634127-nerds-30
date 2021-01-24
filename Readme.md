@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Александр Черданцев](https://up.htmlacademy.ru/htmlcss/30/user/1634127).
-* Наставник: `Александр Кошара`.(https://htmlacademy.ru/profile/rednaxxxela)
+* Наставник: [Александр Кошара](https://htmlacademy.ru/profile/rednaxxxela)
 
 ---
 
